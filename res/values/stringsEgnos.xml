@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="bluetoothReceiverList">Bluetooth Receivers</string>
+    <string name="scan_Button">Scan</string>
+    <string name="pairedReceiver_text">Paired Devices</string>
+    <string name="newReceiver_text">New Devices</string>
+    
+    <string name="connectToReceiver">Receiver disconnected</string>
+    <string name="sisnetAvailable">SISNeT is available.</string>
+    <string name="sisnetUnAvailable">SISNeT currently unavailable.</string>
+    <string name="sisnetNoNetwork">Unable to connect to SISNeT, 
+                                               network not available.</string>
+    <string name="edasNoNetwork">Unable to connect to EGNOS IP, 
+                                               network not available.</string>
+    <string name="edasUnAvailable">EGNOS IP currently unavailable.</string>
+    <string name="signalinSpaceUnavailable">Signal in Space currently 
+                           unavailable.Please turn on SISNeT.</string>
+    <string name="egnosUnAvailable">EGNOS position not available.</string>
+    <string name="gpsUnAvailable">Location currently not available.</string>
+    
+    <string name="receiverConnectionExists">Receiver already connected.</string>
+    <string name="anotherReceiverConnectionExists">Another receiver 
+                                                already connected.</string>
+    <string name="connectingToReceiver">Connecting to Receiver.....</string>
+    <string name="identifyingReceiver">Identifying Receiver.....</string>
+    <string name="unableToConnect">Unable to connect to Receiver.</string>
+    <string name="uBloxReceiverconnected">uBlox receiver connected.</string>
+    <string name="receiverUnIdentified">GNSS receiver type unknown.Please 
+                                   connect a known GNSS receiver.</string>
+   <string name ="sisAvailable">Signal in Space is available, if you want to, turn on
+                                   EGNOS Signal in Space.</string>
+                                   
+    <string name ="errorInSISNeT">SISNeT data is unusable, please switch to EGNOS Signal
+												in Space.</string>
+</resources>

@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.373954257/NDK_HOME/delimiter=\:
+environment/project/0.373954257/NDK_HOME/operation=replace
+environment/project/0.373954257/NDK_HOME/value=${HOME}/android-ndk-r10e
+environment/project/0.373954257/PATH/delimiter=\:
+environment/project/0.373954257/PATH/operation=replace
+environment/project/0.373954257/PATH/value=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:${NDK_HOME}
+environment/project/0.373954257/append=true
+environment/project/0.373954257/appendContributed=true
